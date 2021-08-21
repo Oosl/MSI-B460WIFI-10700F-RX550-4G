@@ -3,7 +3,7 @@ MSI B460 WIFI, 10700F, RX550-4G, Intel AX200, OpenCore 0.7.2, Big Sur 11.5.1引�
 微星B460M迫击炮wifi版主板黑苹果引导文件 
 
 ### 致谢：
-1. 本文在<a href="https://github.com/QQ3233/Hackintosh-MSI-B460M-MORTAR-WIFI-i5-10500-iGPU-UHD630">QQ3233的配置说明</a>发展而来，本EFI也全靠先有他的EFI让我成功装好系统并正常使用，才使得后面我能够自己再重新制作这个0.7.2的EFI，如你的配置与我不符，可尝试看看他的。  
+1. 本介绍是在<a href="https://github.com/QQ3233/Hackintosh-MSI-B460M-MORTAR-WIFI-i5-10500-iGPU-UHD630">QQ3233的README</a>上修改而来，本EFI也全靠先有他的EFI让我成功装好系统并正常使用，才使得后面我能够自己再重新制作这个0.7.2的EFI，如你的配置与我不符，可尝试看看他的。  
 2. <a href="https://dortania.github.io/OpenCore-Install-Guide/">OpenEFI的官方配置文档</a>(跟着做了一遍才发现，OC引导自己从头做一遍真的很简单)
 
 
