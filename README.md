@@ -15,7 +15,7 @@ MSI B460 WIFI, 10700F, RX550-4G, Intel AX200, OpenCore 0.7.2, Big Sur 11.5.1引�
 
 	内存：金士顿3200 16G*2
 
-	显卡：盈通RX550 4G
+	显卡：盈通RX550 4G（可开核版，刷了560的vBIOS）
 
 	wifi：主板内置 Intel AX200
 
